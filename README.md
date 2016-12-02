@@ -4,3 +4,5 @@ Ce répertoire contient deux éléments:
 
 - **md.py** : script python moissonnant le [bottin du Collège des médecins du Québec](http://www.cmq.org/bottin/index.aspx?lang=fr&a=1)
 - **cmq-total.csv** : données résultant de ce moissonnage (vérifiées et anonymisées)
+
+Travail réalisé dans le cadre d'un projet pour... [Nouveau projet](http://edition.atelier10.ca/nouveau-projet).
