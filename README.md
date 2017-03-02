@@ -12,6 +12,6 @@ Mais comment compter tous les médecins dont le numéro de permis commence par 8
 
 Le fichier **md.py** est un script python qui fait ce travail automatiquement.
 
-Les données qu'il permet de recueillir, et qui donnent un portrait inédit de l'évolution de la profession médicale au Québec du dernier siècle, sont colligées dans le fichier **cmq-total.csv**.
+Les données que le script permet de recueillir, et qui donnent un portrait inédit de l'évolution de la profession médicale au Québec depuis près d'un siècle, sont colligées dans le fichier **cmq-total.csv**.
 
 Travail réalisé dans le cadre d'un projet pour... [Nouveau projet](http://edition.atelier10.ca/nouveau-projet).
