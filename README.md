@@ -10,7 +10,7 @@ En effet, chaque médecin a un numéro de permis de cinq chiffres. Les deux prem
 
 Mais comment compter tous les médecins dont le numéro de permis commence par 80? La seule façon est de vérifier tous les numéros de permis possibles entre 80001 et 80999 dans le [bottin du Collège des médecins du Québec](http://www.cmq.org/bottin/index.aspx?lang=fr&a=1). Le faire manuellement, pour toutes les années entre 1930 et 2016, serait fastidieux puisqu'il faudrait entrer près de 86&nbsp;000 numéros dans l'outil de recherche du bottin.
 
-Le fichier **md.py** est un script python qui fait ce travail automatiquement.
+Le fichier **md.py** est un script python qui fait ce travail automatiquement. Quand un numéro était valide, les informations relatives au médecin en question (genre, spécialité, etc.) étaient copiées dans un fichier CSV. Celui-ci est reproduit dans le fichier **cmq-total.csv**, après avoir anonymisé les données (noms et prénoms ont été remplacés par une initiale).
 
 Les données que le script permet de recueillir, et qui donnent un portrait inédit de l'évolution de la profession médicale au Québec depuis près d'un siècle, sont colligées dans le fichier **cmq-total.csv**.
 
