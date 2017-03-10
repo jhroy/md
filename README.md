@@ -14,6 +14,6 @@ Maintenant, comment ce Bottin peut-il nous permettre de compter le nombre de nou
 
 Imaginez le temps que cela prendrait s'il fallait effectuer ces recherches à la main!
 
-Le fichier **md.py** est un script python qui fait ce travail automatiquement. Quand un numéro était valide, les informations relatives au médecin en question (genre, spécialité, etc.) étaient copiées dans un fichier CSV. Celui-ci est reproduit dans le fichier **cmq-total.csv**, après avoir anonymisé les données (noms et prénoms ont été remplacés par une initiale). Ces données donnent un portrait jusqu'à présent inédit de l'évolution de la profession médicale au Québec depuis près d'un siècle.
+Le fichier [**md.py**](md.py) est un script python qui fait ce travail automatiquement. Quand un numéro était valide, les informations relatives au médecin en question (genre, spécialité, etc.) étaient copiées dans un fichier CSV. Celui-ci est reproduit dans le fichier [**cmq-total.csv**](cmq-total.csv), après avoir anonymisé les données (noms et prénoms ont été remplacés par une initiale). Ces données donnent un portrait jusqu'à présent inédit de l'évolution de la profession médicale au Québec depuis près d'un siècle.
 
 Travail réalisé dans le cadre d'un projet pour... [Nouveau projet](http://edition.atelier10.ca/nouveau-projet).
